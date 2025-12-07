@@ -1,121 +1,121 @@
 admission_id,patient_id,doctor_name,department,diagnosis_id,admission_date,treatment_cost
-1,50,Dr. Evans,Oncology,1,2023-05-08 00:00:00,49854.0
-2,61,Dr. Evans,Neurology,78,2023-12-22 00:00:00,21607.0
-3,51,Dr. Adams,Neurology,115,2023-10-06 00:00:00,38599.0
-4,19,Dr. Adams,Unknown Department,47,2023-02-24 00:00:00,29529.0
-5,21,Dr. Evans,Pediatrics,114,2023-10-20 00:00:00,36954.0
-6,5,Dr. Evans,Neurology,66,2023-07-05 00:00:00,28856.0
-7,82,Dr. Davis,Unknown Department,118,2023-02-14 00:00:00,3573.0
-8,92,Unknown Doctor,General,92,2023-05-09 00:00:00,13808.0
-9,42,Dr. Adams,Oncology,113,2023-02-02 00:00:00,36367.0
-10,61,Dr. Clark,General,114,2023-12-15 00:00:00,37801.0
-11,22,Dr. Clark,Oncology,94,2023-01-10 00:00:00,42196.0
-12,21,Dr. Adams,General,38,2023-12-09 00:00:00,35072.0
-13,70,Dr. Davis,General,51,2023-04-26 00:00:00,24752.0
-14,1,Dr. Baker,General,63,2023-03-07 00:00:00,18685.0
-15,5,Dr. Davis,Oncology,4,2023-08-13 00:00:00,25063.0
-16,105,Dr. Davis,Oncology,1,2023-09-24 00:00:00,12372.0
-17,12,Dr. Clark,General,8,2023-08-11 00:00:00,9996.0
-18,90,Dr. Davis,Neurology,29,2023-11-16 00:00:00,17458.0
-19,46,Dr. Adams,Pediatrics,55,2023-04-20 00:00:00,32889.0
-20,34,Dr. Clark,Pediatrics,103,2023-03-19 00:00:00,27665.0
-21,49,Dr. Adams,Pediatrics,3,2023-01-06 00:00:00,39243.0
-22,78,Dr. Baker,Oncology,32,2023-07-04 00:00:00,32653.0
-23,90,Dr. Clark,Oncology,10,2023-02-25 00:00:00,27657.0
-24,45,Dr. Baker,Neurology,74,2023-11-30 00:00:00,40952.0
-25,27,Dr. Adams,Pediatrics,83,2023-10-22 00:00:00,23180.0
-26,73,Dr. Evans,Pediatrics,110,2023-07-30 00:00:00,32896.0
-27,26,Dr. Davis,General,34,2023-02-05 00:00:00,13875.0
-28,47,Dr. Evans,Oncology,97,2023-02-02 00:00:00,2622.0
-29,86,Dr. Baker,Pediatrics,87,2023-01-04 00:00:00,49756.0
-30,111,Dr. Davis,Neurology,55,2023-09-09 00:00:00,41809.0
-31,56,Dr. Clark,Neurology,92,2023-10-10 00:00:00,17725.0
-32,94,Dr. Adams,Pediatrics,32,2023-07-01 00:00:00,41760.0
-33,107,Dr. Adams,Oncology,50,2023-12-14 00:00:00,16646.0
-34,63,Dr. Davis,Neurology,7,2023-12-14 00:00:00,18029.0
-35,48,Dr. Adams,General,93,2023-11-21 00:00:00,30402.0
-36,61,Dr. Davis,Neurology,8,2023-05-03 00:00:00,5263.0
-37,81,Dr. Adams,Cardiology,65,2023-04-18 00:00:00,31987.0
-38,26,Dr. Baker,Cardiology,57,2023-05-20 00:00:00,47828.0
-39,36,Dr. Evans,Oncology,119,2023-03-31 00:00:00,48924.0
-40,1,Dr. Clark,Pediatrics,67,2023-11-06 00:00:00,9646.0
-41,8,Dr. Adams,Oncology,88,2023-05-01 00:00:00,28529.0
-42,113,Dr. Evans,Oncology,87,2023-06-24 00:00:00,12664.0
-43,99,Dr. Clark,Oncology,59,2023-02-22 00:00:00,36737.0
-44,52,Dr. Clark,Oncology,72,2023-10-22 00:00:00,25027.0
-45,79,Dr. Adams,General,54,2023-12-16 00:00:00,25027.0
-46,47,Dr. Baker,General,19,2023-09-21 00:00:00,25027.0
-47,56,Dr. Baker,Neurology,111,2023-08-28 00:00:00,37397.0
-48,86,Dr. Evans,Cardiology,101,2023-10-22 00:00:00,21609.0
-49,14,Dr. Baker,Oncology,67,2023-09-05 00:00:00,25027.0
-50,90,Dr. Davis,Neurology,51,2023-01-01 00:00:00,39709.0
-51,28,Dr. Baker,Cardiology,97,2023-04-25 00:00:00,20250.0
-52,87,Dr. Evans,Pediatrics,92,2023-01-07 00:00:00,22172.0
-53,78,Dr. Baker,General,111,2023-10-07 00:00:00,12555.0
-54,88,Dr. Davis,Cardiology,8,2023-01-22 00:00:00,22874.0
-55,2,Dr. Adams,Pediatrics,34,2023-09-23 00:00:00,14081.0
-56,109,Dr. Evans,Cardiology,35,2023-06-06 00:00:00,25063.0
-57,26,Dr. Adams,General,96,2023-09-11 00:00:00,7819.0
-58,14,Dr. Adams,General,88,2023-05-04 00:00:00,26712.0
-59,59,Dr. Adams,Neurology,78,2023-01-28 00:00:00,25762.0
-60,56,Dr. Clark,Oncology,32,2023-09-18 00:00:00,12046.0
-61,115,Dr. Clark,Cardiology,120,2023-01-07 00:00:00,32463.0
-62,7,Dr. Adams,Cardiology,46,2023-07-11 00:00:00,29769.0
-63,3,Dr. Evans,Pediatrics,107,2023-04-13 00:00:00,24150.0
-64,111,Dr. Davis,General,16,2023-04-22 00:00:00,3711.0
-65,23,Dr. Davis,Cardiology,68,2023-10-31 00:00:00,5853.0
-66,110,Dr. Baker,General,116,2023-09-21 00:00:00,30077.0
-67,107,Dr. Evans,Cardiology,37,2023-01-02 00:00:00,24863.0
-68,111,Dr. Clark,Neurology,54,2023-03-12 00:00:00,22792.0
-69,109,Dr. Adams,Oncology,85,2023-11-04 00:00:00,41483.0
-70,18,Dr. Baker,Cardiology,14,2023-05-15 00:00:00,25063.0
-71,38,Dr. Davis,General,95,2023-07-19 00:00:00,49275.0
-72,99,Dr. Adams,Neurology,55,2023-02-16 00:00:00,49594.0
-73,115,Unknown Doctor,Cardiology,48,2023-11-10 00:00:00,2762.0
-74,15,Dr. Adams,Pediatrics,82,2023-09-19 00:00:00,32987.0
-75,64,Dr. Davis,Unknown Department,7,2023-07-07 00:00:00,16850.0
-76,89,Dr. Adams,Cardiology,74,2023-01-05 00:00:00,13112.0
-77,119,Dr. Clark,Neurology,7,2023-07-15 00:00:00,25058.0
-78,101,Dr. Adams,Pediatrics,33,2023-01-21 00:00:00,46420.0
-79,28,Dr. Evans,Neurology,23,2023-11-03 00:00:00,39890.0
-80,74,Dr. Davis,Unknown Department,85,2023-01-04 00:00:00,25063.0
-81,39,Dr. Clark,Pediatrics,19,2023-04-27 00:00:00,48304.0
-82,57,Dr. Adams,Neurology,112,2023-10-08 00:00:00,33921.0
-83,17,Dr. Evans,Pediatrics,19,2023-02-03 00:00:00,41385.0
-84,103,Dr. Evans,Unknown Department,36,2023-11-02 00:00:00,2524.0
-85,86,Dr. Clark,Pediatrics,29,2023-07-11 00:00:00,35888.0
-86,90,Dr. Clark,Pediatrics,60,2023-11-06 00:00:00,16048.0
-87,44,Dr. Baker,Oncology,82,2023-06-29 00:00:00,25063.0
-88,25,Dr. Davis,Pediatrics,2,2023-12-31 00:00:00,38904.0
-89,17,Dr. Adams,Pediatrics,1,2023-12-29 00:00:00,35008.0
-90,13,Dr. Evans,Cardiology,47,2023-03-28 00:00:00,25063.0
-91,84,Dr. Baker,Oncology,69,2023-07-19 00:00:00,10130.0
-92,25,Dr. Adams,General,20,2023-06-06 00:00:00,19023.0
-93,68,Dr. Baker,Cardiology,11,2023-03-22 00:00:00,46080.0
-94,10,Dr. Clark,Cardiology,106,2023-08-10 00:00:00,14350.0
-95,67,Dr. Adams,General,2,2023-05-19 00:00:00,25354.0
-96,105,Dr. Adams,Pediatrics,67,2023-10-19 00:00:00,46186.0
-97,109,Dr. Adams,Neurology,87,2023-06-28 00:00:00,29145.0
-98,18,Dr. Adams,Oncology,119,2023-04-27 00:00:00,25027.0
-99,111,Dr. Adams,Neurology,12,2023-01-26 00:00:00,21587.0
-100,100,Dr. Adams,General,20,2023-07-29 00:00:00,42131.0
-101,111,Dr. Baker,Cardiology,5,2023-12-20 00:00:00,25063.0
-102,86,Dr. Evans,Cardiology,37,2023-01-11 00:00:00,20933.0
-103,34,Dr. Adams,Oncology,38,2023-08-14 00:00:00,25063.0
-104,111,Dr. Clark,Cardiology,94,2023-11-24 00:00:00,24393.0
-105,8,Dr. Clark,Cardiology,9,2023-03-12 00:00:00,24051.0
-106,40,Dr. Clark,Oncology,98,2023-01-27 00:00:00,25027.0
-107,113,Dr. Baker,Oncology,53,2023-01-29 00:00:00,5090.0
-108,108,Dr. Davis,General,44,2023-01-03 00:00:00,7960.0
-109,83,Dr. Evans,Cardiology,99,2023-12-14 00:00:00,36772.0
-110,42,Dr. Adams,Cardiology,116,2023-04-30 00:00:00,22520.0
-111,41,Dr. Davis,Unknown Department,61,2023-06-25 00:00:00,37408.0
-112,101,Dr. Clark,Pediatrics,86,2023-08-18 00:00:00,29470.0
-113,6,Dr. Davis,Pediatrics,108,2023-02-02 00:00:00,21491.0
-114,52,Unknown Doctor,Pediatrics,24,2023-03-03 00:00:00,25063.0
-115,26,Dr. Adams,General,81,2023-02-05 00:00:00,45623.0
-116,64,Dr. Adams,Cardiology,74,2023-11-29 00:00:00,25791.0
-117,98,Dr. Evans,General,30,2023-02-05 00:00:00,1338.0
-118,59,Dr. Evans,General,120,2023-04-16 00:00:00,25063.0
-119,56,Dr. Clark,Pediatrics,59,2023-08-08 00:00:00,200000.0
-120,59,Dr. Adams,Neurology,110,2023-03-25 00:00:00,12344.0
+1,50,Dr. Evans,Oncology,1,2023-05-08,49854.0
+2,61,Dr. Evans,Neurology,78,2023-12-22,21607.0
+3,51,Dr. Adams,Neurology,115,2023-10-06,38599.0
+4,19,Dr. Adams,Unknown Department,47,2023-02-24,29529.0
+5,21,Dr. Evans,Pediatrics,114,2023-10-20,36954.0
+6,5,Dr. Evans,Neurology,66,2023-07-05,28856.0
+7,82,Dr. Davis,Unknown Department,118,2023-02-14,3573.0
+8,92,Unknown Doctor,General,92,2023-05-09,13808.0
+9,42,Dr. Adams,Oncology,113,2023-02-02,36367.0
+10,61,Dr. Clark,General,114,2023-12-15,37801.0
+11,22,Dr. Clark,Oncology,94,2023-01-10,42196.0
+12,21,Dr. Adams,General,38,2023-12-09,35072.0
+13,70,Dr. Davis,General,51,2023-04-26,24752.0
+14,1,Dr. Baker,General,63,2023-03-07,18685.0
+15,5,Dr. Davis,Oncology,4,2023-08-13,25063.0
+16,105,Dr. Davis,Oncology,1,2023-09-24,12372.0
+17,12,Dr. Clark,General,8,2023-08-11,9996.0
+18,90,Dr. Davis,Neurology,29,2023-11-16,17458.0
+19,46,Dr. Adams,Pediatrics,55,2023-04-20,32889.0
+20,34,Dr. Clark,Pediatrics,103,2023-03-19,27665.0
+21,49,Dr. Adams,Pediatrics,3,2023-01-06,39243.0
+22,78,Dr. Baker,Oncology,32,2023-07-04,32653.0
+23,90,Dr. Clark,Oncology,10,2023-02-25,27657.0
+24,45,Dr. Baker,Neurology,74,2023-11-30,40952.0
+25,27,Dr. Adams,Pediatrics,83,2023-10-22,23180.0
+26,73,Dr. Evans,Pediatrics,110,2023-07-30,32896.0
+27,26,Dr. Davis,General,34,2023-02-05,13875.0
+28,47,Dr. Evans,Oncology,97,2023-02-02,2622.0
+29,86,Dr. Baker,Pediatrics,87,2023-01-04,49756.0
+30,111,Dr. Davis,Neurology,55,2023-09-09,41809.0
+31,56,Dr. Clark,Neurology,92,2023-10-10,17725.0
+32,94,Dr. Adams,Pediatrics,32,2023-07-01,41760.0
+33,107,Dr. Adams,Oncology,50,2023-12-14,16646.0
+34,63,Dr. Davis,Neurology,7,2023-12-14,18029.0
+35,48,Dr. Adams,General,93,2023-11-21,30402.0
+36,61,Dr. Davis,Neurology,8,2023-05-03,5263.0
+37,81,Dr. Adams,Cardiology,65,2023-04-18,31987.0
+38,26,Dr. Baker,Cardiology,57,2023-05-20,47828.0
+39,36,Dr. Evans,Oncology,119,2023-03-31,48924.0
+40,1,Dr. Clark,Pediatrics,67,2023-11-06,9646.0
+41,8,Dr. Adams,Oncology,88,2023-05-01,28529.0
+42,113,Dr. Evans,Oncology,87,2023-06-24,12664.0
+43,99,Dr. Clark,Oncology,59,2023-02-22,36737.0
+44,52,Dr. Clark,Oncology,72,2023-10-22,25027.0
+45,79,Dr. Adams,General,54,2023-12-16,25027.0
+46,47,Dr. Baker,General,19,2023-09-21,25027.0
+47,56,Dr. Baker,Neurology,111,2023-08-28,37397.0
+48,86,Dr. Evans,Cardiology,101,2023-10-22,21609.0
+49,14,Dr. Baker,Oncology,67,2023-09-05,25027.0
+50,90,Dr. Davis,Neurology,51,2023-01-01,39709.0
+51,28,Dr. Baker,Cardiology,97,2023-04-25,20250.0
+52,87,Dr. Evans,Pediatrics,92,2023-01-07,22172.0
+53,78,Dr. Baker,General,111,2023-10-07,12555.0
+54,88,Dr. Davis,Cardiology,8,2023-01-22,22874.0
+55,2,Dr. Adams,Pediatrics,34,2023-09-23,14081.0
+56,109,Dr. Evans,Cardiology,35,2023-06-06,25063.0
+57,26,Dr. Adams,General,96,2023-09-11,7819.0
+58,14,Dr. Adams,General,88,2023-05-04,26712.0
+59,59,Dr. Adams,Neurology,78,2023-01-28,25762.0
+60,56,Dr. Clark,Oncology,32,2023-09-18,12046.0
+61,115,Dr. Clark,Cardiology,120,2023-01-07,32463.0
+62,7,Dr. Adams,Cardiology,46,2023-07-11,29769.0
+63,3,Dr. Evans,Pediatrics,107,2023-04-13,24150.0
+64,111,Dr. Davis,General,16,2023-04-22,3711.0
+65,23,Dr. Davis,Cardiology,68,2023-10-31,5853.0
+66,110,Dr. Baker,General,116,2023-09-21,30077.0
+67,107,Dr. Evans,Cardiology,37,2023-01-02,24863.0
+68,111,Dr. Clark,Neurology,54,2023-03-12,22792.0
+69,109,Dr. Adams,Oncology,85,2023-11-04,41483.0
+70,18,Dr. Baker,Cardiology,14,2023-05-15,25063.0
+71,38,Dr. Davis,General,95,2023-07-19,49275.0
+72,99,Dr. Adams,Neurology,55,2023-02-16,49594.0
+73,115,Unknown Doctor,Cardiology,48,2023-11-10,2762.0
+74,15,Dr. Adams,Pediatrics,82,2023-09-19,32987.0
+75,64,Dr. Davis,Unknown Department,7,2023-07-07,16850.0
+76,89,Dr. Adams,Cardiology,74,2023-01-05,13112.0
+77,119,Dr. Clark,Neurology,7,2023-07-15,25058.0
+78,101,Dr. Adams,Pediatrics,33,2023-01-21,46420.0
+79,28,Dr. Evans,Neurology,23,2023-11-03,39890.0
+80,74,Dr. Davis,Unknown Department,85,2023-01-04,25063.0
+81,39,Dr. Clark,Pediatrics,19,2023-04-27,48304.0
+82,57,Dr. Adams,Neurology,112,2023-10-08,33921.0
+83,17,Dr. Evans,Pediatrics,19,2023-02-03,41385.0
+84,103,Dr. Evans,Unknown Department,36,2023-11-02,2524.0
+85,86,Dr. Clark,Pediatrics,29,2023-07-11,35888.0
+86,90,Dr. Clark,Pediatrics,60,2023-11-06,16048.0
+87,44,Dr. Baker,Oncology,82,2023-06-29,25063.0
+88,25,Dr. Davis,Pediatrics,2,2023-12-31,38904.0
+89,17,Dr. Adams,Pediatrics,1,2023-12-29,35008.0
+90,13,Dr. Evans,Cardiology,47,2023-03-28,25063.0
+91,84,Dr. Baker,Oncology,69,2023-07-19,10130.0
+92,25,Dr. Adams,General,20,2023-06-06,19023.0
+93,68,Dr. Baker,Cardiology,11,2023-03-22,46080.0
+94,10,Dr. Clark,Cardiology,106,2023-08-10,14350.0
+95,67,Dr. Adams,General,2,2023-05-19,25354.0
+96,105,Dr. Adams,Pediatrics,67,2023-10-19,46186.0
+97,109,Dr. Adams,Neurology,87,2023-06-28,29145.0
+98,18,Dr. Adams,Oncology,119,2023-04-27,25027.0
+99,111,Dr. Adams,Neurology,12,2023-01-26,21587.0
+100,100,Dr. Adams,General,20,2023-07-29,42131.0
+101,111,Dr. Baker,Cardiology,5,2023-12-20,25063.0
+102,86,Dr. Evans,Cardiology,37,2023-01-11,20933.0
+103,34,Dr. Adams,Oncology,38,2023-08-14,25063.0
+104,111,Dr. Clark,Cardiology,94,2023-11-24,24393.0
+105,8,Dr. Clark,Cardiology,9,2023-03-12,24051.0
+106,40,Dr. Clark,Oncology,98,2023-01-27,25027.0
+107,113,Dr. Baker,Oncology,53,2023-01-29,5090.0
+108,108,Dr. Davis,General,44,2023-01-03,7960.0
+109,83,Dr. Evans,Cardiology,99,2023-12-14,36772.0
+110,42,Dr. Adams,Cardiology,116,2023-04-30,22520.0
+111,41,Dr. Davis,Unknown Department,61,2023-06-25,37408.0
+112,101,Dr. Clark,Pediatrics,86,2023-08-18,29470.0
+113,6,Dr. Davis,Pediatrics,108,2023-02-02,21491.0
+114,52,Unknown Doctor,Pediatrics,24,2023-03-03,25063.0
+115,26,Dr. Adams,General,81,2023-02-05,45623.0
+116,64,Dr. Adams,Cardiology,74,2023-11-29,25791.0
+117,98,Dr. Evans,General,30,2023-02-05,1338.0
+118,59,Dr. Evans,General,120,2023-04-16,25063.0
+119,56,Dr. Clark,Pediatrics,59,2023-08-08,200000.0
+120,59,Dr. Adams,Neurology,110,2023-03-25,12344.0
